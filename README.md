@@ -1,4 +1,4 @@
-# Abdullah Basit Awan
+# Abdullah Basit
 
 BS Computer Engineering · Information Technology University, Lahore · 2023–2027
 
