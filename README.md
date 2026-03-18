@@ -84,4 +84,5 @@ Producing and editing video content for the IEEE student branch at ITU.
 
 - GitHub: [AbdullahBasit24](https://github.com/AbdullahBasit24)
 - Email: abdullah.basit24@outlook.com
-- LinkedIn: [Abdullah Basit](https://www.linkedin.com/in/abdullah-basit-awan/)
+- LinkedIn: [Abdullah Basit](https://www.linkedin.com/in/abdullah-basit/)
+- Portfolio: [Abdullah Basit](https://abdullahbasit24.github.io/portfolio/)
