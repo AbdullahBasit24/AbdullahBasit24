@@ -1,13 +1,32 @@
 # Abdullah Basit Awan
 BS Computer Engineering · Information Technology University, Lahore · 2023–2027
-
 Computer Engineering student with a focus on embedded systems and software development. Outside of tech, I enjoy videography, photography, and 3D animation.
-
 `C / C++` `Python` `Verilog` `STM32` `Flask` `SQL` `MATLAB` `Blender`
 
 ---
 
 ## Projects
+
+### GPS Asset Tracker with Geofencing
+Low-power GPS asset tracker with geofencing built on the STM32 B-L475E-IOT01A2. Uses FreeRTOS for task scheduling, UART DMA for NMEA parsing, Haversine-based geofence detection, and Stop Mode 1 with LPTIM1-based tickless idle for power optimization. LSM6DSL accelerometer used for motion-based wake-up. Group project for Embedded Systems.
+
+`STM32` `FreeRTOS` `UART DMA` `Low-Power` `GPS` `Embedded C`
+
+---
+
+### Secure HTTP Communication System
+Client-server application demonstrating secure vs. insecure communication using JWE encryption (RSA-OAEP-256 + AES-256-GCM). Built with Node.js and Express on the backend and the JOSE library for cryptographic operations. Traffic analysis performed with Wireshark to verify encryption in transit. Group project for Computer Communication Networks.
+
+`Node.js` `Express` `JWE` `RSA-OAEP-256` `AES-256-GCM` `Wireshark`
+
+---
+
+### Plant Disease Classification & Sentiment Analysis
+Two deep learning models built in TensorFlow on Google Colab. A CNN trained on the PlantVillage dataset for multi-class plant disease classification, and an LSTM trained on the IMDb dataset for binary sentiment analysis. Implemented a full tf.data pipeline with custom metrics. Assignment for Applied Machine Learning.
+
+`Python` `TensorFlow` `CNN` `LSTM` `Google Colab`
+
+---
 
 ### Single-Cycle RISC-V Processor
 Single-cycle datapath in Verilog with support for R, I, S, and B-type instructions. Includes instruction decode logic and a custom ALU. Group project for Computer Architecture and Organization.
@@ -61,14 +80,11 @@ Arduino-based robot using IR sensors for line following and an ultrasonic sensor
 ## Skills
 
 **Languages:** C · C++ · Python · SQL · Verilog
-
 **Embedded Systems:** STM32 · Arduino · RISC-V · Digital Logic Design
-
-**Web and Backend:** Flask · HTML/CSS · SQL (relational databases)
-
+**Web and Backend:** Flask · Node.js · Express · HTML/CSS · SQL (relational databases)
+**Machine Learning:** TensorFlow · scikit-learn · NLTK · CNN · LSTM
 **Tools and Creative:** MATLAB · Blender · SolidWorks · GitHub · VSCode · STM CubeIDE · Arduino IDE
-
-**Relevant Coursework:** Machine Learning · DBMS · Embedded Systems · Digital System Design
+**Relevant Coursework:** Machine Learning · DBMS · Embedded Systems · Digital System Design · Computer Communication Networks
 
 ---
 
