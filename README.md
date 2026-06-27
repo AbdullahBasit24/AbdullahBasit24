@@ -21,10 +21,10 @@ Client-server application demonstrating secure vs. insecure communication using 
 
 ---
 
-### Plant Disease Classification & Sentiment Analysis
-Two deep learning models built in TensorFlow on Google Colab. A CNN trained on the PlantVillage dataset for multi-class plant disease classification, and an LSTM trained on the IMDb dataset for binary sentiment analysis. Implemented a full tf.data pipeline with custom metrics. Assignment for Applied Machine Learning.
+### Floor Contaminant Detection — YOLOv5
+Real-time detection of floor contaminants (dirt, liquid, marks, trash) using YOLOv5 with a CSP-Darknet53 backbone. Trained on a custom 1,537-image dataset. Achieved mAP@0.5 of 0.995 on dirt and 0.932 on liquid, matching or exceeding the paper baseline. Group project for Applied Machine Learning.
 
-`Python` `TensorFlow` `CNN` `LSTM` `Google Colab`
+`Python` `YOLOv5` `PyTorch` `Computer Vision`
 
 ---
 
@@ -82,7 +82,7 @@ Arduino-based robot using IR sensors for line following and an ultrasonic sensor
 **Languages:** C · C++ · Python · SQL · Verilog
 **Embedded Systems:** STM32 · Arduino · RISC-V · Digital Logic Design
 **Web and Backend:** Flask · Node.js · Express · HTML/CSS · SQL (relational databases)
-**Machine Learning:** TensorFlow · scikit-learn · NLTK · CNN · LSTM
+**Machine Learning:** PyTorch · YOLOv5 · scikit-learn · NLTK · Computer Vision
 **Tools and Creative:** MATLAB · Blender · SolidWorks · GitHub · VSCode · STM CubeIDE · Arduino IDE
 **Relevant Coursework:** Machine Learning · DBMS · Embedded Systems · Digital System Design · Computer Communication Networks
 
